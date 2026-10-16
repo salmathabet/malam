@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* خط Cairo للعربي (الرابط بتاعه في index.html) */
+@theme {
+  --font-sans: 'Cairo', system-ui, sans-serif;
+}
